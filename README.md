@@ -4,4 +4,4 @@ Custom CKEditor 5 balloon build
 
 ## Demo
 
-https://akilli.github.io/rte/ck5/build-balloon.html
+https://akilli.github.io/ckeditor5-build-balloon/demo
